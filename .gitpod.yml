@@ -1,1 +1,1 @@
-image: docker.io/library/python
+image: meysholdt/dazzle-work:build-385d953e3f80cae58153b381d72201363c7614a751b8d5d00ba68c7bd3ef89a8
